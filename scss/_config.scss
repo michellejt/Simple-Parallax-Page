@@ -12,6 +12,16 @@ $link-color:#fff;
 @mixin transition-ease {
     transition: all 0.5s ease-in-out;
 }
+  
+  /* Arrow animations */
+  @keyframes float-down {
+    0% {
+        transform: translate3d(0,0px,0);
+   }
+    100% {
+        transform: translate3d(0,-5px,0);
+   }
+  }
 
 
 
