@@ -1,2 +1,4 @@
 # Parallax
- HTML5, CSS3
+
+Check it out at:
+https://mjt-simple-parallax-page.netlify.app/ 
